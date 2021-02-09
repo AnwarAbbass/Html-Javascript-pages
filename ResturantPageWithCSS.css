@@ -1,0 +1,27 @@
+body {
+    margin: outo;
+    background-color: black;
+    color: burlywood;
+    width: 60%;
+}
+#logo {
+    width: 200px;
+    float: left;
+    margin-right: 50px;
+}
+header div ul li {
+    display: inline;
+    margin-right: 50px;
+}
+ul{ text-align: center;}
+#text_align{
+    text-align: center;
+}
+#imagesize{
+    width: 100%;
+}
+p{
+    line-height: 30px;
+}
+.float{ float: right;}
+footer{ background-color: coral; color: #241f24;}
